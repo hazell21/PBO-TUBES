@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/web/index.jsp</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/DatabaseConnection.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/Role.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/User.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/Permission.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/UserRole.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/Mahasiswa.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/Bahan.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/Resep.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/Rekomendasi.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/RekomendasiMakanan.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/Jadwal.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/MealPlanner.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/controller/MealPlannerServlet.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/web/dashboard.jsp</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/nbproject/project.properties</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/web/login.jsp</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/BudgetManager.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/BahanDAO.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/web/WEB-INF/rekomendasi.jsp</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/ResepAPI.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/src/java/model/RecipeAPIService.java</file>
+            <file>file:/D:/PBO%20all/Tugas%20Tubes/tubes2/web/WEB-INF/profile.jsp</file>
+        </group>
+    </open-files>
+</project-private>
